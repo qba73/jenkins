@@ -1,2 +1,2 @@
 # jenkins-go
-Go client library for Jenkins
+Go client for Jenkins REST API

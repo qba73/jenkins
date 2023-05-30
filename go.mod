@@ -1,3 +1,3 @@
-module github.com/qba73/jenkins-go
+module github.com/qba73/jenkins
 
-go 1.18
+go 1.20
